@@ -8,4 +8,8 @@
 
 **PYTHON**: https://www.python.org/downloads/release/python-31115/
 
-**GIT**: http://git-scm.com/install/windows
+**GIT**: https://git-scm.com/install/windows
+
+**DOCKER**: https://docs.docker.com/desktop/setup/install/windows-install/
+
+**UBUNTU**: https://apps.microsoft.com/detail/9pdxgncfsczv?hl=en-US&gl=PK
