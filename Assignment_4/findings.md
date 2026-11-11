@@ -1,0 +1,5 @@
+# RiderDrop Finance Findings & Monday Action Items
+
+* **Top 5 Rider Shortfall (Rs 320,440 at risk):** Five riders (R22, R08, R09, R12, and R19) account for **Rs 320,440** in total COD shortfalls (R08 and R09 each short-remitted over 20 deliveries); Finance should immediately audit delivery logs and freeze cash collection privileges for these five riders pending recovery.
+* **Delivered COD Parcels with Zero Remittance (Rs 759,440 at risk):** Exactly 100 delivered COD parcels totaling **Rs 759,440** have no corresponding cash remittance recorded; Finance should cross-reference delivery proof signatures for these 100 tracking IDs and demand remittance vouchers from the responsible dispatch hubs.
+* **Remittances on Non-Delivered Shipments (Rs 208,760 collected):** Cash remittances totaling **Rs 208,760** were collected against 36 parcels whose final scan was not marked as delivered (27 in-transit, 9 returned); Operations must update delivery status tags in the tracking system to prevent fake return write-offs and improper accounting reconciliation.

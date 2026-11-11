@@ -1,0 +1,4 @@
+# Everything this project needs, beyond Python itself.
+#     pip install -r requirements.txt
+pandas
+pyodbc

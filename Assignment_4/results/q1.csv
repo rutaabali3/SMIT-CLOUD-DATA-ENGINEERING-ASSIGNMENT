@@ -1,0 +1,13 @@
+zone,final_status,parcel_count
+Clifton,delivered,245
+Clifton,in_transit,35
+Clifton,returned,30
+Gulshan,delivered,222
+Gulshan,in_transit,31
+Gulshan,returned,26
+Korangi,delivered,214
+Korangi,in_transit,38
+Korangi,returned,31
+North Nazimabad,delivered,258
+North Nazimabad,in_transit,26
+North Nazimabad,returned,44
